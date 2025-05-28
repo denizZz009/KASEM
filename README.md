@@ -1,4 +1,3 @@
-
 Responsive 
 ![sitemobile](https://github.com/user-attachments/assets/026717fb-6d0d-4416-9465-20674b31c664)
 
